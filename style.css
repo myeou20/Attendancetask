@@ -1,0 +1,22 @@
+h1{
+    font-size: 25px;
+    background-color: aqua;
+    opacity: 0.2;
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 10px red
+    margin: 20px;
+}
+
+.card-title {
+    color: orange;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color:green;
+    font-size: 16px;
+  }
